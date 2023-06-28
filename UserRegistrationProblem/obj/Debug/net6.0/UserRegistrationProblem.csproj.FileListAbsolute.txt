@@ -1,0 +1,15 @@
+C:\Users\INS 5570\source\repos\UserRegistrationProblem\UserRegistrationProblem\bin\Debug\net6.0\UserRegistrationProblem.exe
+C:\Users\INS 5570\source\repos\UserRegistrationProblem\UserRegistrationProblem\bin\Debug\net6.0\UserRegistrationProblem.deps.json
+C:\Users\INS 5570\source\repos\UserRegistrationProblem\UserRegistrationProblem\bin\Debug\net6.0\UserRegistrationProblem.runtimeconfig.json
+C:\Users\INS 5570\source\repos\UserRegistrationProblem\UserRegistrationProblem\bin\Debug\net6.0\UserRegistrationProblem.dll
+C:\Users\INS 5570\source\repos\UserRegistrationProblem\UserRegistrationProblem\bin\Debug\net6.0\UserRegistrationProblem.pdb
+C:\Users\INS 5570\source\repos\UserRegistrationProblem\UserRegistrationProblem\obj\Debug\net6.0\UserRegistrationProblem.csproj.AssemblyReference.cache
+C:\Users\INS 5570\source\repos\UserRegistrationProblem\UserRegistrationProblem\obj\Debug\net6.0\UserRegistrationProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INS 5570\source\repos\UserRegistrationProblem\UserRegistrationProblem\obj\Debug\net6.0\UserRegistrationProblem.AssemblyInfoInputs.cache
+C:\Users\INS 5570\source\repos\UserRegistrationProblem\UserRegistrationProblem\obj\Debug\net6.0\UserRegistrationProblem.AssemblyInfo.cs
+C:\Users\INS 5570\source\repos\UserRegistrationProblem\UserRegistrationProblem\obj\Debug\net6.0\UserRegistrationProblem.csproj.CoreCompileInputs.cache
+C:\Users\INS 5570\source\repos\UserRegistrationProblem\UserRegistrationProblem\obj\Debug\net6.0\UserRegistrationProblem.dll
+C:\Users\INS 5570\source\repos\UserRegistrationProblem\UserRegistrationProblem\obj\Debug\net6.0\refint\UserRegistrationProblem.dll
+C:\Users\INS 5570\source\repos\UserRegistrationProblem\UserRegistrationProblem\obj\Debug\net6.0\UserRegistrationProblem.pdb
+C:\Users\INS 5570\source\repos\UserRegistrationProblem\UserRegistrationProblem\obj\Debug\net6.0\UserRegistrationProblem.genruntimeconfig.cache
+C:\Users\INS 5570\source\repos\UserRegistrationProblem\UserRegistrationProblem\obj\Debug\net6.0\ref\UserRegistrationProblem.dll
